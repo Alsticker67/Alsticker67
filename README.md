@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/-Bhairav-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge width="80" height="30""/>
   </a>
 
-  <a href="https://twitter.com/Bhairav229060/">
+  <a href="https://twitter.com/Bhairav229060">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge width="80" height="30""/>
   </a>
 
