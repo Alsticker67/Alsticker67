@@ -8,7 +8,7 @@
 
 <div id="badges" align="center">
   
-  <a href="https://www.linkedin.com/in/">
+  <a href="https://www.linkedin.com/in/bhairav-singh-9917a224b/">
     <img src="https://img.shields.io/badge/-Bhairav-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge width="80" height="30""/>
   </a>
 
