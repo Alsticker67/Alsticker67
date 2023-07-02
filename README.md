@@ -24,7 +24,7 @@
 
 I'm **Full stack web developer** from India.
 
-- :zap: In my free time, I read books and watch movies. 
+- :zap: In my free time, I web designing and watch movies. 
 
 - :telescope: Education : **B.Tech** from **NIT** Surat (2019 - 23)
 
@@ -39,7 +39,6 @@ I'm **Full stack web developer** from India.
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" height="40" width="40">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain.svg" height="40" width="40"> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="angularjs" alt="angularjs" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
 
 </div>
